@@ -1,8 +1,6 @@
 # StockAnalysis
 Multi-agent workflow for Stock Analysis
 
-# Python Gen AI Agents
-
 ## Overview
 This project demonstrates a multi-agent workflow for stock data processing with AWS integration.
 
