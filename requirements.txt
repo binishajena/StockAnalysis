@@ -1,0 +1,10 @@
+numpy
+pandas
+yfinance
+requests
+beautifulsoup4
+boto3
+pytest
+selenium
+llama-cpp-python # For LLM usage
+openai 
